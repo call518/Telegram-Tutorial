@@ -2,6 +2,8 @@
 
 Python으로 Telegram 메시지를 송수신하는 예제 코드입니다.
 
+필요한 python 모듈: `python-telegram-bot`
+
 ## 파일 구성
 
 | 파일 | 설명 |
